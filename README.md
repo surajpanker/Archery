@@ -1,8 +1,1 @@
-# Archery
-Just a little coding challenge to test whether I could reproduce an application I had seen on Youtube.
-
-Here's the link to the video: [Watch it on Youtube](https://www.youtube.com/watch?v=kOeaOTgfi78&lc=z12eydhzmlvrhjuvx23kf3oj3yfxgnxjr04.1494243853837987)
-
-I decided to upload the sourcefile as some people wanted to know how to code it.
-
-Feel free to use my code for your projects ;)
+ Project is based on java integrated with computer graphics  .It make arrow if we drag the screen  on everywhere and so arrow is made and it moves on the screen and new make n number of arrows .arrow speed is based on frame per second and also power is  decided and if we take a point and drag the minimum distance that time is power is calculated with help of distance and multiply how can be dragged to the point and then distance  formula we calculated distance that is equal to power.
